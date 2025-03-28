@@ -91,8 +91,7 @@
 ---
 
 ### **Creation of Virtual Hard Disk**
-
-![](./images/disk.png)
+![Uploading image.png…]()
 
 ---
 
