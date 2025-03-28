@@ -91,7 +91,8 @@
 ---
 
 ### **Creation of Virtual Hard Disk**
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/33003152-3678-4101-936a-39a5dacb38b7)
+
 
 ---
 
